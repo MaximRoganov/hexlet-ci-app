@@ -1,6 +1,11 @@
+
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
+
+## CI status
+[![workflow-from-task](https://github.com/MaximRoganov/hexlet-ci-app/actions/workflows/workflow-from-task.yml/badge.svg)](https://github.com/MaximRoganov/hexlet-ci-app/actions/workflows/workflow-from-task.yml)
 
 ## System requirements
 
